@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.preferredDarkColorTheme": "Material Theme Darker",
+    "workbench.colorCustomizations": {
+        
+    "[Material Theme Darker]": {
+        "activityBar.activeBackground": "#000000",
+        "editor.background": "#000000",
+        "menu.background": "#000000",
+        "activityBar.background": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "activityBar.dropBorder": "#000000",
+        "sideBar.background": "#010101",
+        "statusBar.background": "#000000",
+        "terminal.background": "#000000",
+        "breadcrumb.background": "#000000",
+        "scrollbarSlider.background": "#111111",
+        "titleBar.inactiveBackground": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "tab.activeBackground":"#111111"
+    }
+    }
+}
